@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+data/games.csv
+data/*.pgn
+results/*.png
+results/*.json
+.ipynb_checkpoints/
+generation.log
+*.log
