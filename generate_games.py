@@ -25,7 +25,7 @@ DEFAULT_STOCKFISH = r"C:\stockfish\stockfish.exe"
 STRONG_DEPTH = 14
 WEAK_MOVETIME_S = 0.03
 MAX_PLIES = 200
-CP_LOSS_CAP = 1000  # cap per-move centipawn loss; standard Lichess-style
+CP_LOSS_CAP = 1000  # cap per-move centipawn loss;
 
 SKILL_LEVELS = [0, 3, 6, 9, 12, 15, 18]
 CHEAT_PCTS = [0, 10, 25, 50, 100]
