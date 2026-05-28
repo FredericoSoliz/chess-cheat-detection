@@ -36,9 +36,9 @@ chess-cheat-detection/
 ├── README.md
 ├── requirements.txt
 ├── generate_games.py    # parallel self-play generator
-├── notebook.ipynb       # analysis, training, evaluation (phase 2)
-├── data/                # games.csv (gitignored)
-└── results/             # plots and metrics (gitignored)
+├── notebook.ipynb       # analysis, training, evaluation 
+├── data/                # games.csv 
+└── results/             # plots and metrics 
 ```
 
 ## Setup
